@@ -101,13 +101,13 @@ O **Teste Jest** é um módulo de testes unitários, de integração e E2E, dese
 **Clone o projeto**
 
 ```bash
-  git clone https://github.com/MarcioJorgeMelo/web-carros.git
+  git clone [https://github.com/MarcioJorgeMelo/web-carros.git](https://github.com/MarcioJorgeMelo/test-jest.git)
 ```
 
 **Vá para a pasta do projeto**
 
 ```bash
-  cd webcarros
+  cd test-jest
 ```
 
 **Abra o projeto no VSCode**
